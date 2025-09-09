@@ -4,6 +4,10 @@ An interactive Power BI dashboard for tracking and analyzing business performanc
 
 ---
 ## 🖼️ Dashboard View Video
+
+### 🎥 Project Demo Video  
+[![Watch the demo](https://img.youtube.com/vi/KRJF-YUGtow/0.jpg)](https://youtu.be/KRJF-YUGtow)
+
 ---
 ## 🚀 About the Project
 
