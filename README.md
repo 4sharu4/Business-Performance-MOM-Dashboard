@@ -3,9 +3,7 @@
 An interactive Power BI dashboard for tracking and analyzing business performance metrics **Month-over-Month (MoM)**. This dashboard delivers a clear view of **Revenue**, **Profit**, **Orders**, and **Returns** across time, products, and customer segments — empowering decision-makers with actionable insights.
 
 ---
-## 🖼️ Dashboard View Video
-
-### 🎥 Project Demo Video  
+## 🎥 Project Demo Video  
 [![Watch the demo](https://img.youtube.com/vi/KRJF-YUGtow/0.jpg)](https://youtu.be/KRJF-YUGtow)
 
 ---
