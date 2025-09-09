@@ -38,17 +38,6 @@ The dashboard aims to **simplify executive-level decision-making** through clean
 
 ---
 
-## 🧠 How It Works
-
-- **Slicers**: Apply filters across all KPIs using intuitive slicers (Date, KPI Type, Product Category)
-- **MOM Calculation**: Dynamically compares the selected month to the previous one
-- **Visual Indicators**: Green/red arrows to easily identify positive/negative trends
-- **Target Logic**:
-  - Revenue/Profit/Orders: `Target = Previous Month * 1.1`
-  - Returns: `Target = Previous Month * 0.9`
-
----
-
 ## 💼 Use Cases
 
 - **Executive Dashboards**
